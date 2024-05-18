@@ -13,7 +13,7 @@ I'm a passionate software developer from Kenya with experience in both frontend 
 ## 🚀 Projects
 
 ### [Project 1: BeyondOs](https://github.com/MachineKe/beyondOsV1)
-A web based operating system
+A web based operating system built using React
 
 ![Desktop Preview](https://res.cloudinary.com/dmpposta9/image/upload/v1715353134/beyond/beyondOs/beyond2_okhhun.png)
 
