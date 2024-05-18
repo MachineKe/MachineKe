@@ -29,11 +29,11 @@ A modern personal blog created using NextJs and Typescript. Supports markdown fo
 
 ![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=machineke&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MachineKe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machineke&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MachineKe&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=machineke&theme=onedark)
 
 ## 🔗 Connect with Me
 
