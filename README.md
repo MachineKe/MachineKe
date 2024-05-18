@@ -17,10 +17,11 @@ A web based operating system
 
 ![Desktop Preview](https://res.cloudinary.com/dmpposta9/image/upload/v1715353134/beyond/beyondOs/beyond2_okhhun.png)
 
-### [Project 2: Personal Blog](https://github.com/yourusername/project2)
-A modern personal blog created using React and Flask. Supports markdown for writing posts and integrates with a SQL database for storing content.
+### [Project 2: Personal Blog](https://github.com/MachineKe/myblog)
+A modern personal blog created using NextJs and Typescript. Supports markdown for writing posts and integrates with github's api for storing content.
 
-![Personal Blog](https://path-to-your-image.com/blog.png)
+![Personal Blog](![image](https://github.com/MachineKe/MachineKe/assets/110995007/01b8fe1e-ef84-4bdd-bb50-b07376e29ee6)
+)
 
 ### [Project 3: Task Manager](https://github.com/yourusername/project3)
 A task management application developed with Node.js and React. Implements a RESTful API and allows users to create, read, update, and delete tasks.
