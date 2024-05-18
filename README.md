@@ -1,6 +1,6 @@
 # Hi there, I'm Mark Kiprotich 👋
 
-I'm a passionate software developer from Kenya with experience in both frontend and backend web development. I love building scalable web applications and exploring new technologies.
+I'm a passionate software developer from Kenya with experience in both frontend and backend web app development. I love building scalable web applications and exploring new technologies.
 
 ## 🛠️ Technologies & Tools
 
