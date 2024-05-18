@@ -20,7 +20,7 @@ A web based operating system
 ### [Project 2: Personal Blog](https://github.com/MachineKe/myblog)
 A modern personal blog created using NextJs and Typescript. Supports markdown for writing posts and integrates with github's api for storing content.
 
-![Personal Blog](![image](https://github.com/MachineKe/MachineKe/assets/110995007/01b8fe1e-ef84-4bdd-bb50-b07376e29ee6)
+![Personal Blog](https://res.cloudinary.com/dmpposta9/image/upload/v1716028898/beyond/blogsapp/blogsApp_pote7a.png
 )
 
 ### [Project 3: Task Manager](https://github.com/yourusername/project3)
