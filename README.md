@@ -23,10 +23,7 @@ A modern personal blog created using NextJs and Typescript. Supports markdown fo
 ![Personal Blog](https://res.cloudinary.com/dmpposta9/image/upload/v1716028898/beyond/blogsapp/blogsApp_pote7a.png
 )
 
-### [Project 3: Task Manager](https://github.com/yourusername/project3)
-A task management application developed with Node.js and React. Implements a RESTful API and allows users to create, read, update, and delete tasks.
 
-![Task Manager](https://path-to-your-image.com/task-manager.png)
 
 ## 📊 GitHub Stats
 
