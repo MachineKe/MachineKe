@@ -29,13 +29,13 @@ A task management application developed with Node.js and React. Implements a RES
 
 ## 📊 GitHub Stats
 
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MachineKe&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MachineKe&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=MachineKe&theme=onedark)
 
 ## 🔗 Connect with Me
 
@@ -45,4 +45,4 @@ A task management application developed with Node.js and React. Implements a RES
 
 ---
 
-⭐️ From [Mark Kiprotich](https://github.com/yourusername)
+⭐️ From [Mark Kiprotich](https://github.com/MachineKe)
