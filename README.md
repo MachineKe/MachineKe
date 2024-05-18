@@ -29,7 +29,7 @@ A modern personal blog created using NextJs and Typescript. Supports markdown fo
 
 ![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Machineke&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machineke&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machineke&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
