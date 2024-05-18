@@ -12,10 +12,10 @@ I'm a passionate software developer from Kenya with experience in both frontend 
 
 ## 🚀 Projects
 
-### [Project 1: E-commerce Platform](https://github.com/yourusername/project1)
-A full-featured e-commerce platform built with Next.js, Node.js, and GraphQL. Includes features such as user authentication, product management, and a shopping cart.
+### [Project 1: BeyondOs](https://github.com/MachineKe/beyondOsV1)
+A web based operating system
 
-![E-commerce Platform](https://path-to-your-image.com/ecommerce.png)
+![Desktop Preview](https://res.cloudinary.com/dmpposta9/image/upload/v1715353134/beyond/beyondOs/beyond2_okhhun.png)
 
 ### [Project 2: Personal Blog](https://github.com/yourusername/project2)
 A modern personal blog created using React and Flask. Supports markdown for writing posts and integrates with a SQL database for storing content.
