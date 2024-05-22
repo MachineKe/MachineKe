@@ -38,7 +38,7 @@ A modern personal blog created using NextJs and Typescript. Supports markdown fo
 ## 🔗 Connect with Me
 
 - [Email](mailto:markarapsoi72@gmail.com.com)
-- - [Linkedin](www.linkedin.com/in/markkiprotich)
+- [Linkedin](www.linkedin.com/in/markkiprotich)
 
 ---
 
