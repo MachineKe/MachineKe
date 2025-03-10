@@ -5,10 +5,10 @@ I'm a passionate software developer from Kenya with experience in both frontend 
 ## 🛠️ Technologies & Tools
 
 - **Frontend:** React, Next.js
-- **Backend:** Node.js, Flask
+- **Backend:** Laravel,Node.js, Flask
 - **Databases:** SQL
 - **API:** GraphQL
-- **Other:** Python, WordPress
+- **Other:** Python
 
 ## 🚀 Projects
 
