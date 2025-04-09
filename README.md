@@ -6,7 +6,7 @@ I'm a passionate software developer from Kenya with experience in both frontend 
 
 - **Frontend:** React, Next.js
 - **Backend:** Laravel,Node.js, Flask
-- **Databases:** SQL
+- **Databases:** SQL, PostgreSQL, MongoDb
 - **API:** GraphQL
 - **Other:** Python
 
