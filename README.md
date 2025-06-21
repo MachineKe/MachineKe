@@ -1,4 +1,6 @@
-# Hi there, I'm Mark Kiprotich 👋 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MachineKe)
+# Hi there, I'm Mark Kiprotich 👋
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MachineKe)
 
 
 
