@@ -1,6 +1,6 @@
-# Hi there, I'm Mark Kiprotich 👋
+# Hi there, I'm Mark Kiprotich 👋 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MachineKe)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MachineKe)
+
 
 I'm a passionate software developer from Kenya with experience in both frontend and backend web app development. I love building scalable web applications and exploring new technologies.
 
