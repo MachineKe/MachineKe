@@ -1,6 +1,6 @@
 # Hi there, I'm Mark Kiprotich 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MachineKe) [![Like](https://img.shields.io/github/stars/MachineKe/MachineKe?style=social)](https://github.com/MachineKe/MachineKe/stargazers)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MachineKe) 
 
 
 
