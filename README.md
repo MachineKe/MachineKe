@@ -16,6 +16,11 @@ I'm a passionate software developer from Kenya with experience in both frontend 
 
 ## 🚀 Projects
 
+### [Project 1: Beyond Forum](https://github.com/MachineKe/chat_forum_app)
+A feature-rich chat forum app for collaborative conversations.
+
+![Beyond Forum Preview](https://res.cloudinary.com/dmpposta9/image/upload/v1762530462/beyondForum/beyond_forum_chat_section_t4nakg.png)
+
 ### [Project 1: BeyondOs](https://github.com/MachineKe/beyondOsV1)
 A web based operating system built using React
 
