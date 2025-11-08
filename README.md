@@ -21,12 +21,12 @@ A feature-rich chat forum app for collaborative conversations.
 
 ![Beyond Forum Preview](https://res.cloudinary.com/dmpposta9/image/upload/v1762530462/beyondForum/beyond_forum_chat_section_t4nakg.png)
 
-### [Project 1: BeyondOs](https://github.com/MachineKe/beyondOsV1)
+### [Project 2: BeyondOs](https://github.com/MachineKe/beyondOsV1)
 A web based operating system built using React
 
 ![Desktop Preview](https://res.cloudinary.com/dmpposta9/image/upload/v1715353134/beyond/beyondOs/beyond2_okhhun.png)
 
-### [Project 2: Personal Blog](https://github.com/MachineKe/myblog)
+### [Project 3: Personal Blog](https://github.com/MachineKe/myblog)
 A modern personal blog created using NextJs and Typescript. Supports markdown for writing posts and integrates with github's api for storing content.
 
 ![Personal Blog](https://res.cloudinary.com/dmpposta9/image/upload/v1716028898/beyond/blogsapp/blogsApp_pote7a.png
